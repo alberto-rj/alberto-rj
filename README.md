@@ -1,24 +1,20 @@
 <h1 align="center"><b>Hi, I'm Alberto! </b><img src="assets/gifs/wave.gif" width="35"></h1>
-<br>
+<br><br>
 <p align="center"><b>A/An</b></p>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Opens+Sans&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+From+Angola,;Self-taught+Front-End+Developer,;Active+Learner..."></a>
 </p>
 	
-## <picture><img src = "assets/gifs/hard-life.gif" width=" 80px"></picture>&nbsp;&nbsp;&nbsp;&nbsp; **About me**
+## <picture><img src = "assets/gifs/hard-life.gif" width=" 80px"></picture>&nbsp;&nbsp; **About me**
 
 <br>
 
-<div style="display:flex;justify-content:space-between;flex-wrap:wrap">
-<ul style="max-width: 500px;">
+<div>
 <li>Currently learning Web Development by building projects.</li>
 <li>I love to learn new stuffs.</li>
-<li>I love to share my knowladge with people.</li>
-<li>I'm always open to collaborating with other professionals to build better software.</li>
+<li>I'm always open to collaborating with other professionals to build software that users need.</li>
+<li>I love to share what I know with people.</li>
 </ul>
-<div width="280px">
-<img src="assets/gifs/tech-stack-floating.gif" alt="Awesome Workspace" width="100%">
-</div>
 </div>
 
 <br><br>
