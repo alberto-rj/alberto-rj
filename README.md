@@ -18,14 +18,14 @@ A/An
   <li>I love to share my knowladge with people.</li>
   <li>I'm always open to collaborating with other professionals to build better software.</li>
 </ul>
-<div style="max-width:280px;">
-<img src="assets/gifs/tech-stack-floating.gif" alt="Awesome Workspace" style="max-width:100%;">
-</div>
+  <div width="280px">
+  <img src="assets/gifs/tech-stack-floating.gif" alt="Awesome Workspace" width="100%">
+  </div>
 </div>
 
 <br><br>
 
-<img style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
+<img width="100%;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -109,4 +109,4 @@ A/An
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertorauljose)
 <br>
 
-<img style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
