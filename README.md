@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Alberto! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Alberto! </b><img src="assets/gifs/wave.gif" width="35"></h1>
 A/An
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Opens+Sans&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Angolan+Developer,;Self-taught+Front-End+Developer,;Active+Learner..."></a>
@@ -6,19 +6,25 @@ A/An
 <br>
 
 	
-## <picture><img src = "assets/mdImages/about_me.gif" width = 50px></picture> **About me**
-
-<picture> <img align="right" src="assets/mdImages/Right_Side.gif" width = 250px></picture>
+## <picture><img src = "assets/gifs/hard-life.gif" style="width: 80px;margin-right:10px"></picture> **About me**
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Currently learning Web Development by building projects
-- Playing Video Game at spare time
+<div style="display:flex;justify-content:space-between;flex-wrap:wrap;">
+<ul>
+  <li>Currently learning Web Development by building projects.</li>
+  <li>I love to learn new stuffs.</li>
+  <li>I love to share knowladge with people.</li>
+  <li>I'm always open to collaborating with other professionals to build better software.</li>
+</ul>
+<div style="max-width:280px;">
+<img src="assets/gifs/tech-stack-floating.gif" alt="Awesome Workspace" style="width:100%;">
+</div>
+</div>
 
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -27,18 +33,24 @@ A/An
 
 - **Languages**:
     
-    ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![Java](https://img.shields.io/badge/Java%20-%2300599C.svg?style=for-the-badge&logo=java&logoColor=white)
-    ![PHP](https://img.shields.io/badge/PHP%20-%2300599C.svg?style=for-the-badge&logo=php%2B%2B&logoColor=white)
-    ![MySQL](https://img.shields.io/badge/mysql%20-%2300599C.svg?style=for-the-badge&logo=mysql%2B%2B&logoColor=white)
+    ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+    ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+    ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+    ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<br>   
+<br>
+
+- **Databases**:
+
+   ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+<br>
     
 - **Front-End Development**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 <br>
 
@@ -52,8 +64,7 @@ A/An
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+    ![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 <br>
 
@@ -76,14 +87,8 @@ A/An
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
-<div align="center">
-
-<a href="https://github.com/alberto-rj/">
-  <img src="https://github-readme-stats.vercel.app/api?username=alberto-rj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alberto-rj&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="alberto-rj"/>
-
-</a>
-</div>
+![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj)
 
 <br>
 <br>
@@ -94,28 +99,13 @@ A/An
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-
-<ul>
-
-<li>
-  <a href="https://twitter.com/albertorauljose" target="_blank">
-  <img src="https://img.shields.io/badge/twitter:  albertorauljose-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;"/>
-  </a>
-</li>
-
+## <b> Let's Connect..!</b> <picture><img src = "assets/gifs/handshake.gif" width = 100px></picture>
 <br>
 
-<li>
-  <a href="mailto:albertorauljose2@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/gmail:  albertorauljose-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-  </a>
-</li>
-	
-</ul>
-</div>
-
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)](https://www.codewars.com/users/albertorauljose)
+[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/albertorauljose)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertorauljose2@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertorauljose)
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img style="width:100%;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
