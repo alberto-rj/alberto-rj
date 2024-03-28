@@ -3,8 +3,6 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Opens+Sans&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+From+Angola,;Self-taught+Front-End+Developer,;Active+Learner..."></a>
 </p>
-<br>
-
 	
 ## <picture><img src = "assets/gifs/hard-life.gif" width=" 80px"></picture> **About me**
 
@@ -12,19 +10,19 @@
 
 <div style="display:flex;justify-content:space-between;flex-wrap:wrap">
 <ul style="max-width: 500px;">
-  <li>Currently learning Web Development by building projects.</li>
-  <li>I love to learn new stuffs.</li>
-  <li>I love to share my knowladge with people.</li>
-  <li>I'm always open to collaborating with other professionals to build better software.</li>
+<li>Currently learning Web Development by building projects.</li>
+<li>I love to learn new stuffs.</li>
+<li>I love to share my knowladge with people.</li>
+<li>I'm always open to collaborating with other professionals to build better software.</li>
 </ul>
-  <div width="280px">
-  <img src="assets/gifs/tech-stack-floating.gif" alt="Awesome Workspace" width="100%">
-  </div>
+<div width="280px">
+<img src="assets/gifs/tech-stack-floating.gif" alt="Awesome Workspace" width="100%">
+</div>
 </div>
 
 <br><br>
 
-<img width="100%;" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
+<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
@@ -73,26 +71,18 @@
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
 
-
 </p>
-
-<br>
-<br>
 
 -----
 
 <br>
-
+<br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj)
-
-<br>
-<br>
-<br>
 
 -----
 
