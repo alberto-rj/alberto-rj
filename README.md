@@ -6,7 +6,7 @@
 <br>
 
 	
-## <picture><img src = "assets/gifs/hard-life.gif" style="width: 80px;margin-right:10px"></picture> **About me**
+## <picture><img src = "assets/gifs/hard-life.gif" width=" 80px"></picture> **About me**
 
 <br>
 
