@@ -5,7 +5,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Opens+Sans&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=Web+Developer+From+Angola,;Self-taught+Front-End+Developer,;Active+Learner..."></a>
 </p>
 	
-## <picture><img src = "assets/gifs/hard-life.gif" width=" 80px"></picture> **About me**
+## <picture><img src = "assets/gifs/hard-life.gif" width=" 80px"></picture>&nbsp;&nbsp;&nbsp;&nbsp; **About me**
 
 <br>
 
