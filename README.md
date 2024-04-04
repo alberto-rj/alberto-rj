@@ -13,7 +13,7 @@
 <li>Currently learning Web Development by building projects.</li>
 <li>I love to learn new stuffs.</li>
 <li>I'm always open to collaborating with other professionals to build software that users need.</li>
-<li>I love to share what I know with people.</li>
+<li>I love to share what I know with others.</li>
 </ul>
 </div>
 
