@@ -43,19 +43,19 @@
 </details>
 <br>
 
-<details>
+<details open>
     <summary><strong>Databases</strong></summary><br>
     <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </details>
 <br>
 
-<details>
+<details open>
     <summary><strong>Cloud Hosting</strong></summary><br>
     <img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
 </details>
 <br>
 
-<details>
+<details open>
     <summary><strong>Extras</strong></summary><br>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
