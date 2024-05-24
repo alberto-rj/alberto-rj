@@ -10,6 +10,7 @@
 <br>
 
 <div>
+<ul>
 <li>Currently learning Web Development by building projects.</li>
 <li>I love to learn new stuffs.</li>
 <li>I'm always open to collaborating with other professionals to build software that users need.</li>
@@ -80,7 +81,7 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b> <picture><img src = "assets/gifs/handshake.gif" width = 100px></picture>
+## <b> Let's Connect..!</b> <picture><img src="assets/gifs/handshake.gif" width="100px"></picture>
 <br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertorauljose2@gmail.com)
