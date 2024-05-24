@@ -26,7 +26,7 @@
 
 <div>
 <details open>
-   <summary><strong>Front-End Development:</strong></summary>
+   <summary><strong>Front-End Development</strong></summary>
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -34,7 +34,7 @@
 <br>
 
 <details open>
-    <summary><strong>Languages:</strong></summary>
+    <summary><strong>Languages</strong></summary>
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -43,19 +43,19 @@
 <br>
 
 <details>
-    <summary><strong>Databases:</strong></summary>
+    <summary><strong>Databases</strong></summary><br>
     <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </details>
 <br>
 
 <details>
-    <summary><strong>Cloud Hosting:</strong></summary>
+    <summary><strong>Cloud Hosting</strong></summary><br>
     <img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
 </details>
 <br>
 
 <details>
-    <summary><strong>Extras:</strong></summary>
+    <summary><strong>Extras</strong></summary><br>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
