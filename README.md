@@ -11,7 +11,7 @@
 
 <div>
 <ul>
-<li>Currently learning JavaScript by building projects.</li>
+<li>Currently improving my front-end skills by building projects.</li>
 <li>I love to learn new stuffs.</li>
 <li>I'm always open to collaborating with other professionals to build software that users need.</li>
 <li>I love to share what I know with others.</li>
