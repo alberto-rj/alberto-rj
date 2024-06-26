@@ -11,7 +11,7 @@
 
 <div>
 <ul>
-<li>Currently improving my front-end skills by building projects and helping others on <a href="https://www.frontendmentor.io/home">Frontend Mentor</a>.</li>
+<li>Currently improving my front-end skills by building projects and helping others on <a href="https://www.frontendmentor.io/profile/alberto-rj">Frontend Mentor</a>.</li>
 <li>I love to learn new stuffs.</li>
 <li>I'm always open to collaborating with other professionals to build software that users need.</li>
 </ul>
