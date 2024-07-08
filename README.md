@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Alberto! </b><img src="assets/gifs/wave.gif" width="35"></h1>
 <br><br>
-<p align="center"><b>A/An</b></p>
+<p align="center"><b>I'm A/An</b></p>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Opens+Sans&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Front-End+Developer/>;<Active+Learner/>..."></a>
 </p>
