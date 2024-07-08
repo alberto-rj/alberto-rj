@@ -20,8 +20,8 @@
 
 <div>
 <ul>
-<li>🎉 I have successfully completed over 15 projects on Frontend Mentor and shared my code with others.</li>
-<li>🤝 I have provided feedback on projects on Frontend Mentor website.</li>
+<li>🎉 I have successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions) and shared my code with others.</li>
+<li>🤝 I have [provided feedback on projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/comments) website.</li>
 </ul>
 </div>
 <br><br>
