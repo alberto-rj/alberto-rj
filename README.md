@@ -6,7 +6,7 @@
 </p>
 	
 ## 🏆 Goals
-<br>
+
 <div>
 <ul>
 <li>🚀 Gain experience in developing full-stack applications using React and Node.js.</li>
@@ -17,7 +17,7 @@
 <br><br>
 
 ## 📈 Achievements
-<br>
+
 <div>
 <ul>
 <li>🎉 I have successfully completed over 15 projects on Frontend Mentor and shared my code with others.</li>
@@ -29,7 +29,6 @@
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
 
 <div>
 <details open>
@@ -77,7 +76,6 @@
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
@@ -88,7 +86,6 @@
 <br>
 
 ## <b> Let's Connect..!</b> <picture><img src="assets/gifs/handshake.gif" width="100px"></picture>
-<br>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertorauljose2@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertorauljose)
