@@ -5,18 +5,25 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Opens+Sans&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Front-End+Developer/>;<Active+Learner/>..."></a>
 </p>
 	
-## <picture><img src = "assets/gifs/hard-life.gif" width=" 80px"></picture>&nbsp;&nbsp; **About me**
-
+## 🏆 Goals
 <br>
-
 <div>
 <ul>
-<li>Currently improving my front-end skills by building projects and helping others on <a href="https://www.frontendmentor.io/profile/alberto-rj">Frontend Mentor</a>.</li>
-<li>I love to learn new stuffs.</li>
-<li>I'm always open to collaborating with other professionals to build software that users need.</li>
+<li>🚀 Gain experience in developing full-stack applications using React and Node.js.</li>
+<li>🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.</li>
+<li>🎨 Learn new design techniques and tools to enhance my UI/UX design skills.</li>
 </ul>
 </div>
+<br><br>
 
+## 📈 Achievements
+<br>
+<div>
+<ul>
+<li>🎉 I have successfully completed over 15 projects on Frontend Mentor and shared my code with others.</li>
+<li>🤝 I have provided feedback on projects on Frontend Mentor website.</li>
+</ul>
+</div>
 <br><br>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
