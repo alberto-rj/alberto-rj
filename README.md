@@ -69,9 +69,7 @@
     <img alt="Terminal" src="https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white">
 </details>   
 </div>
-
------
-
+<br>
 <br>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
@@ -79,8 +77,7 @@
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
 
------
-
+<br>
 <br>
 
 ## <b> Let's Connect..!</b> <picture><img src="assets/gifs/handshake.gif" width="100px"></picture>
