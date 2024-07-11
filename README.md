@@ -7,22 +7,22 @@
 ##  About Me
 
 - I love to learn new stuffs.
-- Fluent in Portuguese, and polishing up my English skills every day.
+- Fluent in Portuguese, and improving my English skills every day.
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
-<img align="right" alt="" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
+<img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/ad7b4a31-ef8a-4442-82d5-d8162b9bacce" width="360px"/>
 
-## ✅ My Achievements:
+### ✅ My Achievements:
 
 - 🎉 I have successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions) and shared my code with others.
 - 🤝 I have [provided feedback on projects on Frontend Mentorwebsite](https://www.frontendmentor.io/profile/alberto-rj/comments).
 
-## 💪 Currently Learning:
+### 💪 Currently Learning:
 
 - 🏗 Good practices of HTML5, CSS3 and vanilla JavaScript by building projects.
 
-## 🏆 My Goals:
+### 🏆 My Goals:
+
 
 - 🚀 Gain experience in developing full-stack applications using React and Node.js.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
