@@ -78,10 +78,14 @@
 <br>
 <br>
 
-## <b> Let's Connect..!</b> <picture><img src="assets/gifs/handshake.gif" width="100px"></picture>
+<div align="center">
+
+<h2 align="center">Let's Connect..! <img src="assets/gifs/handshake.gif" width="100"></h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertorauljose2@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertorauljose)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alberto-rj)](https://www.frontendmentor.io/profile/alberto-rj)
+
+</div>
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif">
