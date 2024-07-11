@@ -9,8 +9,8 @@
 - I love to learn new stuffs.
 - Fluent in Portuguese, and improving my English skills every day.
 
-<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
-<img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/ad7b4a31-ef8a-4442-82d5-d8162b9bacce" width="360px"/>
+<!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
+<img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
 ### ✅ My Achievements:
 
@@ -31,7 +31,7 @@
 
 
 <!-- Line -->
-<img alt="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<img alt="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <br><br>
 
 <!-- Languages and Tools - start -->
@@ -124,4 +124,4 @@ Languages and Tools
 
 
 <!-- Line -->
-<img alt="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
+<img alt="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
