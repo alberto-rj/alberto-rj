@@ -98,7 +98,7 @@ Languages and Tools
 
 <!-- More About Me on GitHub - start-->
 <div align="center">
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> More About Me on GitHub</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55"> More About Me on GitHub</h2>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
