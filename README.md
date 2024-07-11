@@ -18,7 +18,7 @@
 
 <div>
 <ul>
-<li>🏗 Good practices of HTML5, CSS3 and vanilla JavaScript by building projects</li>
+<li>🏗 Good practices of HTML5, CSS3 and vanilla JavaScript by building projects.</li>
 </ul>
 </div>
 <br><br>
@@ -29,7 +29,8 @@
 <ul>
 <li>🚀 Gain experience in developing full-stack applications using React and Node.js.</li>
 <li>🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.</li>
-<li>🎨 Learn new design techniques and tools to enhance my UI/UX design skills.</li>
+<li>🎨 Learn modern design techniques and tools to enhance my UI/UX design skills.</li>
+<li>👨‍💻 Gain professional experience by collaborating on open source projects.</li>
 </ul>
 </div>
 <br><br>
