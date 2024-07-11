@@ -4,44 +4,33 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Front-End+Developer/>;<Active+Learner/>..."></a>
 </p>
 
-## ✅ My Achievements
+## ✅ My Achievements:
 
-<div>
-<ul>
-<li>🎉 I have successfully <a href="https://www.frontendmentor.io/profile/alberto-rj/solutions">completed over 15 projects on Frontend Mentor</a> and shared my code with others.</li>
-<li>🤝 I have <a href="https://www.frontendmentor.io/profile/alberto-rj/comments">provided feedback on projects on Frontend Mentor</a> website.</li>
-</ul>
-</div>
-<br><br>
+- 🎉 I have successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions) and shared my code with others.
+- 🤝 I have [provided feedback on projects on Frontend Mentorwebsite](https://www.frontendmentor.io/profile/alberto-rj/comments).
 
-## 💪 Currently Learning
+## 💪 Currently Learning:
 
-<div>
-<ul>
-<li>🏗 Good practices of HTML5, CSS3 and vanilla JavaScript by building projects.</li>
-</ul>
-</div>
-<br><br>
+- 🏗 Good practices of HTML5, CSS3 and vanilla JavaScript by building projects.
 
-## 🏆 My Goals
+## 🏆 My Goals:
 
-<div>
-<ul>
-<li>🚀 Gain experience in developing full-stack applications using React and Node.js.</li>
-<li>🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.</li>
-<li>🎨 Learn modern design techniques and tools to enhance my UI/UX design skills.</li>
-<li>👨‍💻 Gain professional experience by collaborating on open source projects.</li>
-</ul>
-</div>
-<br><br>
+- 🚀 Gain experience in developing full-stack applications using React and Node.js.
+- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
+- 🎨 Learn modern design techniques and tools to enhance my UI/UX design skills.
+- 👨‍💻 Gain professional experience by collaborating on open source projects.
 
 <img width="100%" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"><br><br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Skills</b>
-
-<div>
+<div align="center">
+   
+<h2 align="center">
+   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
+   Languages and Tools
+</h2>
+   
 <details open>
-   <summary><strong>Front-End Development</strong></summary><br>
+   <summary><b>Front-End Development</b></summary><br>
    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
@@ -49,7 +38,7 @@
 <br>
 
 <details open>
-    <summary><strong>Languages</strong></summary><br>
+    <summary><b>Languages</b></summary><br>
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -58,19 +47,19 @@
 <br>
 
 <details open>
-    <summary><strong>Databases</strong></summary><br>
+    <summary><b>Databases</b></summary><br>
     <img alt="MYSQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </details>
 <br>
 
 <details open>
-    <summary><strong>Cloud Hosting</strong></summary><br>
+    <summary><b>Cloud Hosting</b></summary><br>
     <img alt="Github Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white">
 </details>
 <br>
 
 <details open>
-    <summary><strong>Extras</strong></summary><br>
+    <summary><b>Extras</b></summary><br>
     <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
