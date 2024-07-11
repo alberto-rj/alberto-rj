@@ -6,8 +6,8 @@
 
 ##  About Me
 
-- I love to learn new stuffs.
-- Fluent in Portuguese, and improving my English skills every day.
+- Fluent in Portuguese and improving my English skills every day.
+- I enjoy learning new stuffs and sharing my knowledge with others.
 
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
