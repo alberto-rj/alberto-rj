@@ -4,6 +4,7 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Front-End+Developer/>;<Active+Learner/>..."></a>
 </p>
 
+<!-- About Me - start -->
 ##  About Me
 
 - Fluent in Portuguese and improving my English skills every day.
@@ -29,6 +30,8 @@
 - 🎨 Learn modern design techniques and tools to enhance my UI/UX design skills.
 - 👨‍💻 Gain professional experience by collaborating on open source projects.
 
+<br><br>
+<!-- About Me - end -->
 
 <!-- Line -->
 <img alt="" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
