@@ -4,11 +4,11 @@
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Front-End+Developer/>;<Active+Learner/>..."></a>
 </p>
 
-<!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
-<img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
-
 <!-- About Me - start -->
 ##  About Me
+
+<!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
+<img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
 - Fluent in Portuguese and improving my English skills every day.
 - I enjoy learning new stuffs and sharing my knowledge with others.
