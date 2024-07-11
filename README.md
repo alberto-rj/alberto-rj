@@ -1,8 +1,17 @@
-<h1 align="center"><b>Hi, I'm Alberto! </b><img src="assets/gifs/wave.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Alberto, and welcome to my GitHub profile!</b> <img src="assets/gifs/wave.gif" width="35"></h1>
 <br><br>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Front-End+Developer/>;<Active+Learner/>..."></a>
 </p>
+
+##  About Me
+
+- I love to learn new stuffs.
+- Fluent in Portuguese, and polishing up my English skills every day.
+
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+<img align="right" alt="" src="https://user-images.githubusercontent.com/90595158/224520261-cac35362-4a70-4108-85c8-260ac8e0b0bd.svg#gh-dark-mode-only" width="360px"/>
+<img align="right" alt="" src="https://user-images.githubusercontent.com/90595158/224520109-e00b8f1e-08c9-4316-9920-ea4e88701a61.svg#gh-light-mode-only" width="360px"/>
 
 ## ✅ My Achievements:
 
