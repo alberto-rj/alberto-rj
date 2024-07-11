@@ -4,24 +4,33 @@
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Opens+Sans&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<AN+Web+Developer+From+Angola/>;<A+Self-taught+Front-End+Developer/>;<An+Active+Learner/>..."></a>
 </p>
-	
-## 🏆 &lt;My Goals/&gt;
+
+## ✅ My Achievements
+
+<div>
+<ul>
+<li>🎉 I have successfully <a href="https://www.frontendmentor.io/profile/alberto-rj/solutions">completed over 15 projects on Frontend Mentor</a> and shared my code with others.</li>
+<li>🤝 I have <a href="https://www.frontendmentor.io/profile/alberto-rj/comments">provided feedback on projects on Frontend Mentor</a> website.</li>
+</ul>
+</div>
+<br><br>
+
+## 💪🏿 Currently learning
+
+<div>
+<ul>
+<li>🏗 Good practices of HTML5, CSS3 and vanilla JavaScript by building projects</li>
+</ul>
+</div>
+<br><br>
+
+## 🏆 My Goals
 
 <div>
 <ul>
 <li>🚀 Gain experience in developing full-stack applications using React and Node.js.</li>
 <li>🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.</li>
 <li>🎨 Learn new design techniques and tools to enhance my UI/UX design skills.</li>
-</ul>
-</div>
-<br><br>
-
-## 📈 &lt;My Achievements/&gt;
-
-<div>
-<ul>
-<li>🎉 I have successfully <a href="https://www.frontendmentor.io/profile/alberto-rj/solutions">completed over 15 projects on Frontend Mentor</a> and shared my code with others.</li>
-<li>🤝 I have <a href="https://www.frontendmentor.io/profile/alberto-rj/comments">provided feedback on projects on Frontend Mentor</a> website.</li>
 </ul>
 </div>
 <br><br>
