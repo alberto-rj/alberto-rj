@@ -15,7 +15,7 @@
 </div>
 <br><br>
 
-## 💪 Currently learning
+## 💪 Currently Learning
 
 <div>
 <ul>
