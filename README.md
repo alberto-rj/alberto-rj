@@ -16,7 +16,7 @@
 ### ✅ My Achievements:
 
 - 🎉 I have successfully [completed over 15 projects on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/solutions) and shared my code with others.
-- 🤝 I have [provided more than 20 useful feedbacks to users of the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/comments).
+- 🤝 I have [provided more than 20 useful feedbacks to developers on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/comments).
 
 ### 💪 Currently Learning:
 
