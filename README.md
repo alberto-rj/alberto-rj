@@ -46,9 +46,9 @@ Languages and Tools
 <summary><b>Front-End Development</b></summary>
 <br>
    
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=%26nbsp%3B&logoColor=white&logoSize=auto)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
+![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-094550?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto)
    
 </details>
 
@@ -56,10 +56,10 @@ Languages and Tools
 <summary><b>Languages</b></summary>
 <br>
    
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![C](https://img.shields.io/badge/C-094550?style=for-the-badge&logo=c&logoColor=white&logoSize=auto)&nbsp;
+![Java](https://img.shields.io/badge/Java-094550?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-094550?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-094550?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
     
 </details>
 
@@ -67,7 +67,7 @@ Languages and Tools
 <summary><b>Databases</b></summary>
 <br>
    
-![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MYSQL-094550?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 
 </details>
 
@@ -75,7 +75,7 @@ Languages and Tools
 <summary><b>Cloud Hosting</b></summary>
 <br>
 
-![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GITHUB%20PAGES-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)
 
 </details>
 
@@ -83,11 +83,11 @@ Languages and Tools
 <summary><b>Extras</b></summary>
 <br>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)&nbsp;
-![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-094550?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)&nbsp;
+![Markdown](https://img.shields.io/badge/MARKDOWN-094550?style=for-the-badge&logo=markdown&logoColor=white&logoSize=auto)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VSCode-094550?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=auto)&nbsp;
+![GNU Bash](https://img.shields.io/badge/GNU%20BASH-094550?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
 
 </details>   
 </div>
@@ -113,9 +113,9 @@ Languages and Tools
 <div align="center">
 <h2 align="center">Let's Connect! <img src="assets/gifs/handshake.gif" width="75"></h2>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:albertorauljose2@gmail.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/albertorauljose)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white&link=https://www.frontendmentor.io/profile/alberto-rj)](https://www.frontendmentor.io/profile/alberto-rj)
+[![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/FRONTEND%20MENTOR-094550?style=for-the-badge&logo=frontendmentor&logoColor=white&logoSize=auto)](https://www.frontendmentor.io/profile/alberto-rj)
 
 </div>
 <!-- Let's Connect - end -->
