@@ -1,7 +1,7 @@
 <h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto, and<br> welcome to my GitHub profile! 😊</h1>
 <br><br>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Front-End+Developer/>;<Active+Learner/>..."></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Frontend+Developer/>;<Active+Learner/>..."></a>
 </p>
 
 <!-- About Me - start -->
@@ -40,7 +40,7 @@
 <h2 align="center">⚒️ Languages and Tools</h2>
    
 <details open>
-<summary><b>Front-End Development</b></summary>
+<summary><b>Frontend Development</b></summary>
 <br>
    
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
