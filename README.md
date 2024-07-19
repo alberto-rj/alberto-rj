@@ -35,12 +35,12 @@
 
 
 <!-- Languages and Tools - start -->
-<div align="center">
+<div align="left">
    
-<h2 align="center">⚒️ Languages and Tools</h2>
+<h2 align="left">⚒️ Languages and Tools</h2>
    
 <details open>
-<summary><b>Frontend Development</b></summary>
+<summary><b>Frontend</b></summary>
 <br>
    
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
@@ -94,8 +94,8 @@
 
 
 <!-- More About Me on GitHub - start-->
-<div align="center">
-<h2 align="center">📈 More About Me on GitHub</h2>
+<div align="left">
+<h2 align="left">📈 More About Me on GitHub</h2>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
@@ -107,8 +107,8 @@
 
 
 <!-- Let's Connect - start -->
-<div align="center">
-<h2 align="center">📬 Let's Connect!</h2>
+<div align="left">
+<h2 align="left">📬 Let's Connect!</h2>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
