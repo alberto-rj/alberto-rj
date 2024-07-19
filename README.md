@@ -108,7 +108,7 @@
 
 <!-- Let's Connect - start -->
 <div align="center">
-<h2 align="center">🤝 Let's Connect!</h2>
+<h2 align="center">📬 Let's Connect!</h2>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
