@@ -37,10 +37,7 @@
 <!-- Languages and Tools - start -->
 <div align="center">
    
-<h2 align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> 
-Languages and Tools
-</h2>
+<h2 align="center">⚒️ Languages and Tools</h2>
    
 <details open>
 <summary><b>Front-End Development</b></summary>
@@ -98,7 +95,7 @@ Languages and Tools
 
 <!-- More About Me on GitHub - start-->
 <div align="center">
-<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="55"> More About Me on GitHub</h2>
+<h2 align="center">📈 More About Me on GitHub</h2>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
@@ -111,7 +108,7 @@ Languages and Tools
 
 <!-- Let's Connect - start -->
 <div align="center">
-<h2 align="center">Let's Connect! <img src="assets/gifs/handshake.gif" width="75"></h2>
+<h2 align="center">🤝 Let's Connect!</h2>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
