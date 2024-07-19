@@ -46,7 +46,7 @@ Languages and Tools
 <summary><b>Front-End Development</b></summary>
 <br>
    
-![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=%26nbsp%3B&logoColor=white&logoSize=auto)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-094550?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto)
    
