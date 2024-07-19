@@ -113,9 +113,9 @@ Languages and Tools
 <div align="center">
 <h2 align="center">Let's Connect! <img src="assets/gifs/handshake.gif" width="75"></h2>
 
-[![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
-[![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
-[![Frontend Mentor](https://img.shields.io/badge/FRONTEND%20MENTOR-094550?style=for-the-badge&logo=frontendmentor&logoColor=white&logoSize=auto)](https://www.frontendmentor.io/profile/alberto-rj)
+[![Gmail](https://img.shields.io/badge/ALBERTORAULJOSE2@GMAIL.COM-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
+[![Twitter](https://img.shields.io/badge/@albertorauljose-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
+[![Frontend Mentor](https://img.shields.io/badge/@alberto-rj-094550?style=for-the-badge&logo=frontendmentor&logoColor=white&logoSize=auto)](https://www.frontendmentor.io/profile/alberto-rj)
 
 </div>
 <!-- Let's Connect - end -->
