@@ -114,5 +114,8 @@
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/FRONTEND%20MENTOR-094550?style=for-the-badge&logo=frontendmentor&logoColor=white&logoSize=auto)](https://www.frontendmentor.io/profile/alberto-rj)
 
+<!-- Wave -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=120&section=footer"/>
+
 </div>
 <!-- Let's Connect - end -->
