@@ -1,10 +1,11 @@
+<!-- wave for the header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
+
 <h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto, and<br> welcome to my GitHub profile! 😊</h1>
 <br><br>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Frontend+Developer/>;<Active+Learner/>..."></a>
 </p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=120&section=header"/>
 
 <!-- About Me - start -->
 ##  About Me
@@ -116,8 +117,8 @@
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/FRONTEND%20MENTOR-094550?style=for-the-badge&logo=frontendmentor&logoColor=white&logoSize=auto)](https://www.frontendmentor.io/profile/alberto-rj)
 
-<!-- Wave -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=120&section=footer"/>
+<!-- wave for the footer -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=footer"/>
 
 </div>
 <!-- Let's Connect - end -->
