@@ -21,9 +21,9 @@
 - 🎉 I have successfully [completed over 15 projects on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/solutions) and shared my code with others.
 - 🤝 I have [provided more than 20 useful feedbacks to developers on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/comments).
 
-### 💪 Currently Learning:
+### 💪 I am currently:
 
-- 🏗 Good practices of HTML5, CSS3 and vanilla JavaScript by building projects.
+- 🏗 Learning HTML5, CSS3 and vanilla JavaScript by building projects and helping others on Frontend Mentor.
 
 ### 🏆 My Goals:
 
