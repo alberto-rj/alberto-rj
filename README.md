@@ -100,6 +100,8 @@
 <div align="left">
 <h2 align="left">📈 More About Me on GitHub</h2>
 
+<p> <img src="https://komarev.com/ghpvc/?username=alberto-rj&label=Profile%20views&color=094550&style=flat" alt="Profile views for Alberto Raúl José" /> </p>
+   
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
 
