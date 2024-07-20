@@ -1,7 +1,7 @@
 <!-- wave for the header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
-<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto, and<br> welcome to my GitHub profile! 😊</h1>
+<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto.<br>Welcome to my GitHub profile! 😊</h1>
 <br><br>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Frontend+Developer/>;<Active+Learner/>..."></a>
