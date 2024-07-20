@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9c28d4&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=120&section=header"/>
 
 <h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto, and<br> welcome to my GitHub profile! 😊</h1>
 <br><br>
