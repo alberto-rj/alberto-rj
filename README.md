@@ -1,5 +1,5 @@
 <!-- wave for the header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07909C&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6372&height=140&section=header"/>
 
 <h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto, and<br> welcome to my GitHub profile! 😊</h1>
 <br><br>
@@ -118,7 +118,7 @@
 [![Frontend Mentor](https://img.shields.io/badge/FRONTEND%20MENTOR-094550?style=for-the-badge&logo=frontendmentor&logoColor=white&logoSize=auto)](https://www.frontendmentor.io/profile/alberto-rj)
 
 <!-- wave for the footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=07909C&height=140&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0D6372&height=140&section=footer"/>
 
 </div>
 <!-- Let's Connect - end -->
