@@ -38,9 +38,9 @@
 
 
 <!-- Languages and Tools - start -->
-<div align="left">
+<div>
    
-<h2 align="left">⚒️ Languages and Tools</h2>
+<h2>⚒️ Languages and Tools</h2>
    
 <details open>
 <summary><b>Frontend</b></summary>
@@ -97,8 +97,8 @@
 
 
 <!-- More About Me on GitHub - start-->
-<div align="left">
-<h2 align="left">📈 More About Me on GitHub</h2>
+<div>
+<h2>📈 More About Me on GitHub</h2>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
@@ -110,8 +110,8 @@
 
 
 <!-- Let's Connect - start -->
-<div align="left">
-<h2 align="left">📬 Let's Connect!</h2>
+<div>
+<h2>📬 Let's Connect!</h2>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
