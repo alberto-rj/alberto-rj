@@ -16,20 +16,14 @@
 - Fluent in Portuguese and improving my English skills every day.
 - I enjoy learning new stuffs and sharing my knowledge with others.
 
-<br>
-
 ### ✅ My Achievements:
 
 - 🎉 I have successfully [completed over 15 projects on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/solutions) and shared my code with others.
 - 🤝 I have [provided more than 20 useful feedbacks to developers on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/comments).
 
-<br>
-
 ### 💪 I'm currently:
 
 - 🏗 Learning HTML5, CSS3 and vanilla JavaScript by building projects and helping others on Frontend Mentor.
-
-<br>
 
 ### 🏆 My Goals:
 
@@ -46,7 +40,8 @@
 <!-- Languages and Tools - start -->
 <div>
 <h2>⚒️ Languages and Tools</h2>
-   
+
+<br>
 <details open>
 <summary><b>Frontend</b></summary>
 <br>
@@ -56,8 +51,8 @@
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-094550?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto)
    
 </details>
-<br>
 
+<br>
 <details open>
 <summary><b>Languages</b></summary>
 <br>
@@ -68,8 +63,8 @@
 ![PHP](https://img.shields.io/badge/PHP-094550?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
     
 </details>
-<br>
 
+<br>
 <details open>
 <summary><b>Databases</b></summary>
 <br>
@@ -77,8 +72,8 @@
 ![MYSQL](https://img.shields.io/badge/MYSQL-094550?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 
 </details>
-<br>
 
+<br>
 <details open>
 <summary><b>Cloud Hosting</b></summary>
 <br>
@@ -86,8 +81,8 @@
 ![GitHub Pages](https://img.shields.io/badge/GITHUB%20PAGES-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)
 
 </details>
-<br>
 
+<br>
 <details open>
 <summary><b>Extras</b></summary>
 <br>
