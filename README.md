@@ -39,7 +39,6 @@
 
 <!-- Languages and Tools - start -->
 <div>
-   
 <h2>⚒️ Languages and Tools</h2>
    
 <details open>
