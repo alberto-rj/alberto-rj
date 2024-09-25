@@ -1,45 +1,47 @@
 <!-- wave for the header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
-<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto.<br>Welcome to my GitHub profile! 😊</h1>
+<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> 🌟 Hi, I'm Alberto<br> - Your Next Frontend Developer! 😊</h1>
+
 <br><br>
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Frontend+Developer/>;<Active+Learner/>..."></a>
 </p>
 
 <!-- About Me - start -->
-##  About Me
+## 👋 About Me
 
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
-- Fluent in Portuguese and improving my English skills every day.
-- I enjoy learning new stuffs and sharing my knowledge with others.
+I'm Alberto, a passionate Frontend Developer focused on creating accessible and intuitive web experiences.
+I'm always eager to learn and apply best practices in web development.
 
-### ✅ My Achievements:
+- 🌍 Fluent in Portuguese and continuously improving my English.
+- 💻 Check out my [Frontend Mentor profile](https://www.frontendmentor.io/profile/alberto-rj) to see my work and projects!
 
-- 🎉 I have successfully [completed over 15 projects on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/solutions) and shared my code with others.
-- 🤝 I have [provided more than 20 useful feedbacks to developers on the Frontend Mentor website](https://www.frontendmentor.io/profile/alberto-rj/comments).
-
-### 💪 I'm currently:
-
-- 🏗 Learning HTML5, CSS3 and vanilla JavaScript by building projects and helping others on Frontend Mentor.
-
-### 🏆 My Goals:
-
+### 🏆 Goals:
 
 - 🚀 Gain experience in developing full-stack applications using React and Node.js.
 - 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
 - 🎨 Learn modern design techniques and tools to enhance my UI/UX design skills.
 - 👨‍💻 Gain professional experience by collaborating on open source projects.
 
+### 💪 Currently:
+
+- 🏗 Diving deeper into HTML5, CSS3, and vanilla JavaScript through project-based learning.
+
+### ✅ Achievements:
+
+- 🎉 Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
+- 🤝 [Provided over 20 helpful insights to fellow developers on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/comments).
+
 <br><br>
 <!-- About Me - end -->
 
 
 <!-- Languages and Tools - start -->
-<div>
-<h2>⚒️ Languages and Tools</h2>
+# ⚒️ Languages and Tools
 
 <br>
 <details open>
@@ -93,30 +95,27 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-094550?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=auto)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/GNU%20BASH-094550?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
 
-</details>   
-</div>
+</details>
 <br>
 <br>
 <!-- Languages and Tools - start -->
 
 
 <!-- More About Me on GitHub - start-->
-<div>
-<h2>📈 More About Me on GitHub</h2>
-<br>
+## 📈 More About Me on GitHub</h2>
 
 ![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)&nbsp;
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
 
-</div>
 <br>
 <br>
 <!-- More About Me on GitHub - end-->
 
-
 <!-- Let's Connect - start -->
-<div>
-<h2>📬 Let's Connect!</h2>
+## 📬 Let's Connect!</h2>
+
+I’m always open to collaboration opportunities and challenging projects. Feel free to reach out!
+
 <br>
 
 [![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
@@ -125,6 +124,4 @@
 
 <!-- wave for the footer -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=footer"/>
-
-</div>
 <!-- Let's Connect - end -->
