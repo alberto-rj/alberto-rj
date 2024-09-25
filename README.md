@@ -1,7 +1,7 @@
 <!-- wave for the header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
-<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto<br>Your Next Frontend Developer!</h1>
+<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto.<br>Your Next Frontend Developer!</h1>
 
 <p align="center">
 <strong><em>"The internet is for everyone, but it won't be unless we make it so"</em> - Vint Cerf</strong>
