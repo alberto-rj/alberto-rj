@@ -4,7 +4,7 @@
 <h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto.<br>Your Next Frontend Developer!</h1>
 
 <p align="center">
-<strong><em>"Internet is for everyone, but it won't be unless WE make it so."</em> - Vint Cerf</strong>
+<em>"Internet is for everyone, but it won't be unless WE make it so." - Vint Cerf</em>
 </p>
 <br><br>
 
