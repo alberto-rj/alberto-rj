@@ -5,7 +5,7 @@
 
 <br><br>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines=<Web+Developer+From+Angola/>;<Self-taught+Frontend+Developer/>;<Active+Learner/>..."></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monospace&color=green&size=25&center=true&vCenter=true&width=600&height=100&lines="The+internet+is+for+everyone, but+it+will+not+be, unless+we+make+it+so"></a>
 </p>
 
 <!-- About Me - start -->
