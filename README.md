@@ -1,7 +1,7 @@
 <!-- wave for the header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
-<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto<br>Your Next Frontend Developer! 🌟</h1>
+<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto<br>Your Next Frontend Developer!</h1>
 
 <br><br>
 <p align="center">
@@ -14,9 +14,7 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
-A passionate Frontend Developer focused on creating accessible and intuitive web experiences. 
-I'm always eager to learn and apply best practices in web development.
-
+- 🌟 Frontend Developer focused on creating accessible and intuitive web experiences.
 - 🌍 Fluent in Portuguese and continuously improving my English.
 - 💻 Check out my [Frontend Mentor profile](https://www.frontendmentor.io/profile/alberto-rj) to see my work and projects!
 
