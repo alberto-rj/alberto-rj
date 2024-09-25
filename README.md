@@ -3,10 +3,12 @@
 
 <h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto<br>Your Next Frontend Developer!</h1>
 
-<br><br>
-<p align="center">
-<strong><em>"The internet is for everyone, but it won't be unless we make it so"</em> - Vint Cerf</strong>
-</p>
+<div align="center">
+   
+> "The internet is for everyone, but it won't be unless we make it so" - Vint Cerf
+
+</div>
+
 
 <!-- About Me - start -->
 ## 👋 About Me
