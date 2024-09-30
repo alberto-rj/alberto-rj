@@ -1,12 +1,7 @@
 <!-- wave for the header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
-<h1 align="center"><img src="assets/gifs/wave.gif" width="35"> Hi, I'm Alberto.<br>Your Next Frontend Developer!</h1>
-
-<p align="center">
-<em>"Internet is for everyone, but it won't be unless WE make it so." - Vint Cerf</em>
-</p>
-<br><br>
+<h1 align="center">🌐🤝 "Internet is for everyone, but it won't be unless WE make it so." - Vint Cerf</h1>
 
 <!-- About Me - start -->
 ## 👋 About Me
@@ -14,18 +9,21 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
-- 🌟 Frontend Developer focused on creating accessible and intuitive web experiences.
-- 🌍 Fluent in Portuguese and continuously improving my English.
-- 💻 Check out my [Frontend Mentor profile](https://www.frontendmentor.io/profile/alberto-rj) to see my work and projects!
+## 👋 About Me
 
-### 🏆 Goals:
+- 💻 Hi I'm Alberto, a **Frontend Developer** focused on creating **accessible and intuitive web experiences**.
 
-- 🚀 Gain experience in developing full-stack applications using React and Node.js.
-- 🌐 Improve my knowledge of web accessibility standards and incorporate them into my projects.
-- 🎨 Learn modern design techniques and tools to enhance my UI/UX design skills.
-- 👨‍💻 Gain professional experience by collaborating on open source projects.
+- ♿ I have a strong passion for web accessibility and believe that the web should be usable by everyone, regardless of their abilities. 
 
-### 💪 Currently:
+- 🎨 I can take a design and **transform it into a fully functional website**, ensuring that it not only looks great but also works seamlessly across different devices and browsers.
+
+- 🎯 My goal is to provide users with the best experience possible while adhering to the latest web standards.
+
+- 🌍 I'm fluent in Portuguese and continuously improving my English.
+
+- 💼 Check out my [Frontend Mentor profile](https://www.frontendmentor.io/profile/alberto-rj) to see my work and projects!
+
+### 🚀 Currently:
 
 - 🏗 Diving deeper into HTML5, CSS3, and vanilla JavaScript through project-based learning.
 
