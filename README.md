@@ -32,58 +32,32 @@
 ### ✅ Achievements:
 
 - 🎉 Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
-- 🤝 [Provided over 20 helpful insights to fellow developers on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/comments).
 
 <br><br>
 <!-- About Me - end -->
 
 <!-- Languages and Tools - start -->
 # ⚒️ Languages and Tools
-
-<br>
-<details open>
-<summary><b>Frontend</b></summary>
-<br>
    
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-094550?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto)
-   
-</details>
 
-<br>
-<details open>
-<summary><b>Languages</b></summary>
 <br>
    
 ![C](https://img.shields.io/badge/C-094550?style=for-the-badge&logo=c&logoColor=white&logoSize=auto)&nbsp;
 ![Java](https://img.shields.io/badge/Java-094550?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-094550?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-094550?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
-    
-</details>
 
-<br>
-<details open>
-<summary><b>Databases</b></summary>
 <br>
    
 ![MYSQL](https://img.shields.io/badge/MYSQL-094550?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
 
-</details>
-
-<br>
-<details open>
-<summary><b>Cloud Hosting</b></summary>
 <br>
 
 ![GitHub Pages](https://img.shields.io/badge/GITHUB%20PAGES-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)
 
-</details>
-
-<br>
-<details open>
-<summary><b>Extras</b></summary>
 <br>
 
 ![Git](https://img.shields.io/badge/GIT-094550?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)&nbsp;
@@ -92,21 +66,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-094550?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=auto)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/GNU%20BASH-094550?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
 
-</details>
-<br>
 <br>
 <!-- Languages and Tools - start -->
-
-
-<!-- More About Me on GitHub - start-->
-## 📈 More About Me on GitHub</h2>
-
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=alberto-rj&show_icons=true&theme=transparent)&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alberto-rj&theme=transparent)
-
-<br>
-<br>
-<!-- More About Me on GitHub - end-->
 
 <!-- Let's Connect - start -->
 ## 📬 Let's Connect!</h2>
