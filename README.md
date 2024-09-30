@@ -15,7 +15,7 @@
 
 - 💻 Hi I'm Alberto, a **Frontend Developer** focused on creating **accessible and intuitive web experiences**.
 
-- ♿ I have a strong passion for web accessibility and believe that the web should be usable by everyone, regardless of their abilities. 
+- 🌐 I have a strong passion for web accessibility and believe that the web should be usable by everyone, regardless of their abilities. 
 
 - 🎨 I can take a design and **transform it into a fully functional website**, ensuring that it not only looks great but also works seamlessly across different devices and browsers.
 
