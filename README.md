@@ -37,7 +37,7 @@
 <!-- About Me - end -->
 
 <!-- Languages and Tools - start -->
-# ⚒️ Languages and Tools
+## ⚒️ Languages and Tools
    
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
