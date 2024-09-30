@@ -55,7 +55,7 @@
 <!-- Languages and Tools - start -->
 
 <!-- Let's Connect - start -->
-## 📬 Let's Connect!</h2>
+## 📬 Let's Connect!
 
 I’m always open to collaboration opportunities and challenging projects. Feel free to reach out!
 
