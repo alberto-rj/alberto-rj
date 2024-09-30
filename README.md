@@ -3,7 +3,7 @@
 
 <p align="center">
 <strong>
-   🌐🤝 <em>"Internet is for everyone, but it won't be<br/>unless WE make it so."</em> - Vint Cerf
+   🌐🤝 <em>"Internet is for everyone, but it won't be unless WE make it so."</em><br> - Vint Cerf
 </strong>
 </p>
 <br><br>
