@@ -41,22 +41,7 @@
    
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
-![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-094550?style=for-the-badge&logo=bootstrap&logoColor=white&logoSize=auto)
-
-<br>
-   
-![C](https://img.shields.io/badge/C-094550?style=for-the-badge&logo=c&logoColor=white&logoSize=auto)&nbsp;
-![Java](https://img.shields.io/badge/Java-094550?style=for-the-badge&logo=openjdk&logoColor=white&logoSize=auto)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-094550?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-094550?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
-
-<br>
-   
-![MYSQL](https://img.shields.io/badge/MYSQL-094550?style=for-the-badge&logo=mysql&logoColor=white&logoSize=auto)
-
-<br>
-
-![GitHub Pages](https://img.shields.io/badge/GITHUB%20PAGES-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)
 
 <br>
 
