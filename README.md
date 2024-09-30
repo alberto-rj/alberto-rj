@@ -1,15 +1,17 @@
 <!-- wave for the header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
 
-<h1 align="center">🌐🤝 "Internet is for everyone, but it won't be unless WE make it so." - Vint Cerf</h1>
+<p align="center">
+<strong>
+   🌐🤝 <em>"Internet is for everyone, but it won't be unless WE make it so."</em> - Vint Cerf
+</strong>
+</p>
 
 <!-- About Me - start -->
 ## 👋 About Me
 
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
-
-## 👋 About Me
 
 - 💻 Hi I'm Alberto, a **Frontend Developer** focused on creating **accessible and intuitive web experiences**.
 
