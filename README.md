@@ -43,10 +43,10 @@
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-094550?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-094550?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)&nbsp;
 
 <br>
 
-![GitHub](https://img.shields.io/badge/GITHUB-094550?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)&nbsp;
 ![Markdown](https://img.shields.io/badge/MARKDOWN-094550?style=for-the-badge&logo=markdown&logoColor=white&logoSize=auto)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-094550?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=auto)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/GNU%20BASH-094550?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
