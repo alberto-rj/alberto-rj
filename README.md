@@ -8,12 +8,12 @@
 <br><br>
 
 <!-- About Me - start -->
-## 👋 About Me
+## 👨‍💻 About Me
 
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
-- 💻 Hi I'm Alberto, a **Frontend Developer** focused on creating **accessible and intuitive web experiences.**
+- 👋 Hi I'm Alberto, a **Frontend Developer** focused on creating **accessible and intuitive web experiences.**
 
 - 🌐 I have a strong passion for web accessibility and believe that the web should be usable by everyone, regardless of their abilities. 
 
