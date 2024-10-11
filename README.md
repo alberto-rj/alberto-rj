@@ -25,9 +25,10 @@
 
 - 💼 Check out my [Frontend Mentor profile](https://www.frontendmentor.io/profile/alberto-rj) to see my work and projects!
 
-### 🚀 Currently:
+### 🚀 Currently learning:
 
-- 📘 Diving deeper into **HTML5**, **CSS3**, and **vanilla JavaScript** through project-based learning.
+- 🌐 Accessibility best practices.
+- 🏗 CSS methodologies and architectures.
 
 ### ✅ Achievements:
 
