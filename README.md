@@ -13,9 +13,7 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
-### **👋 Hi, I'm Alberto**  
-
-I turn designs into accessible and functional web experiences, bridging the gap between what is technically possible and what is humanly necessary.  
+👋 Hi, I'm Alberto! I turn designs into accessible and functional web experiences, bridging the gap between what is technically possible and what is humanly necessary.  
 
 ### **My Journey**  
 
