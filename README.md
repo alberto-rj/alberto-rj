@@ -13,17 +13,31 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
 <img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
 
-- 👋 Hi I'm Alberto, a **Frontend Developer** focused on creating **accessible and intuitive web experiences.**
+### **👋 Hi, I'm Alberto**  
 
-- 🌐 I have a strong passion for web accessibility and believe that the web should be usable by everyone, regardless of their abilities. 
+I turn designs into accessible and functional web experiences, bridging the gap between what is technically possible and what is humanly necessary.  
 
-- 🎨 I can take a design and **transform it into a fully functional website**, ensuring that it not only looks great but also works seamlessly across different devices and browsers.
+### **My Journey**  
 
-- 🎯 My goal is to provide users with the best experience possible while adhering to the latest web standards.
+My path in programming started with a simple question: *"How can I use technology to make a difference in people's lives?"* As a passionate self-taught developer, I found the perfect answer in frontend development—a blend of logic, creativity, and direct user impact.  
 
-- 🌍 I'm fluent in Portuguese and continuously improving my English.
+I deeply believe in Vint Cerf’s words: *"The Internet is for everyone, but it won’t be unless WE make it so."* This philosophy guides every line of code I write, every interface I build, and every project I deliver.  
 
-- 💼 Check out my [Frontend Mentor profile](https://www.frontendmentor.io/profile/alberto-rj) to see my work and projects!
+### **How I Work**
+
+My process is guided by three fundamental principles:  
+
+✅ **Clarity above all** – I believe that clean code and intuitive interfaces start with clear thinking. I invest time in understanding the problem before implementing the solution.  
+
+✅ **Continuous learning** – Every project is an opportunity for growth. I turn Frontend Mentor challenges into experimentation labs, where I can test new techniques and refine my craft.  
+
+✅ **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.  
+
+### **Beyond Code**
+
+When I’m not coding, I enjoy exploring design principles and gaming, always looking for inspiration in interactive experiences.  
+
+I’m always open to collaborations and discussions on how we can make the web a better place for everyone. Let’s build something meaningful together!
 
 ### 🚀 Currently learning:
 
