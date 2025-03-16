@@ -10,9 +10,6 @@
 <!-- About Me - start -->
 ## 👨‍💻 About Me
 
-<!--- Web illustrations by Storyset ( https://storyset.com/people ) --->
-<img align="right" alt="" src="https://github.com/alberto-rj/alberto-rj/assets/160677568/aa73e95e-8782-4dbe-aeeb-b83fb5c8063b" width="360px"/>
-
 👋 Hi, I'm Alberto! I turn designs into accessible and functional web experiences, bridging the gap between what is technically possible and what is humanly necessary.  
 
 ### **My Journey**  
@@ -25,11 +22,11 @@ I deeply believe in Vint Cerf’s words: *"The Internet is for everyone, but it 
 
 My process is guided by three fundamental principles:  
 
-✅ **Clarity above all** – I believe that clean code and intuitive interfaces start with clear thinking. I invest time in understanding the problem before implementing the solution.  
+1. ✅ **Clarity above all** – I believe that clean code and intuitive interfaces start with clear thinking. I invest time in understanding the problem before implementing the solution.  
 
-✅ **Continuous learning** – Every project is an opportunity for growth. I turn Frontend Mentor challenges into experimentation labs, where I can test new techniques and refine my craft.  
+2. ✅ **Continuous learning** – Every project is an opportunity for growth. I turn Frontend Mentor challenges into experimentation labs, where I can test new techniques and refine my craft.  
 
-✅ **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.  
+3. ✅ **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.  
 
 ### **Beyond Code**
 
@@ -49,8 +46,8 @@ I’m always open to collaborations and discussions on how we can make the web a
 <br><br>
 <!-- About Me - end -->
 
-<!-- Languages and Tools - start -->
-## ⚒️ Languages and Tools
+<!-- Technologies - start -->
+## ⚒️ Technologies
    
 ![HTML5](https://img.shields.io/badge/HTML5-094550?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-094550?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
@@ -64,7 +61,7 @@ I’m always open to collaborations and discussions on how we can make the web a
 ![GNU Bash](https://img.shields.io/badge/GNU%20BASH-094550?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
 
 <br>
-<!-- Languages and Tools - start -->
+<!-- Technologies - start -->
 
 <!-- Let's Connect - start -->
 ## 📬 Let's Connect!
