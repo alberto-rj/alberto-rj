@@ -3,7 +3,7 @@
 
 👋 Hi, I'm Alberto! I turn designs into accessible and functional web experiences, bridging the gap between what is technically possible and what is humanly necessary.  
 
-### **My Journey**  
+### My Journey
 
 My path in programming started with a simple question: 
 
@@ -17,7 +17,7 @@ I deeply believe in Vint Cerf’s words:
 
 This philosophy guides every line of code I write, every interface I build, and every project I deliver.  
 
-### **How I Work**
+### How I Work
 
 My process is guided by three fundamental principles:  
 
@@ -27,15 +27,11 @@ My process is guided by three fundamental principles:
 
 3. **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.
 
-### Currently learning
-
-- Web Accessibility
-
 ### Achievements
 
 - Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
 
-### **Beyond Code**
+### Beyond Code
 
 When I’m not coding, I enjoy exploring design principles and gaming, always looking for inspiration in interactive experiences.  
 
@@ -56,8 +52,8 @@ When I’m not coding, I enjoy exploring design principles and gaming, always lo
 ![Visual Studio Code](https://img.shields.io/badge/VSCode-094550?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&logoSize=auto)&nbsp;
 ![GNU Bash](https://img.shields.io/badge/GNU%20BASH-094550?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)
 
-<br>
-<!-- Technologies - start -->
+<br><br>
+<!-- Technologies - end -->
 
 <!-- Let's Connect - start -->
 ## 📬 Let’s connect and build something meaningful together!
