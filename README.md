@@ -25,13 +25,7 @@ My process is guided by three fundamental principles:
 
 2. **Continuous learning** – Every project is an opportunity for growth. I turn Frontend Mentor challenges into experimentation labs, where I can test new techniques and refine my craft.  
 
-3. **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.  
-
-### **Beyond Code**
-
-When I’m not coding, I enjoy exploring design principles and gaming, always looking for inspiration in interactive experiences.  
-
-I’m always open to collaborations and discussions on how we can make the web a better place for everyone. Let’s build something meaningful together!
+3. **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.
 
 ### Currently learning
 
@@ -40,6 +34,14 @@ I’m always open to collaborations and discussions on how we can make the web a
 ### Achievements
 
 - Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
+
+### **Beyond Code**
+
+When I’m not coding, I enjoy exploring design principles and gaming, always looking for inspiration in interactive experiences.  
+
+I’m always open to collaborations and discussions on how we can make the web a better place for everyone. 
+
+**Let’s build something meaningful together!**
 
 <br><br>
 <!-- About Me - end -->
