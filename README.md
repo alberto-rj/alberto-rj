@@ -1,12 +1,3 @@
-<!-- wave for the header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=header"/>
-
-<div align="center">
-<h3><em>"Internet is for everyone, but it won't be unless WE make it so."</em></h3>
-<h4> - Vint Cerf</h4>
-</div>
-<br><br>
-
 <!-- About Me - start -->
 ## 👨‍💻 About Me
 
@@ -30,11 +21,11 @@ This philosophy guides every line of code I write, every interface I build, and 
 
 My process is guided by three fundamental principles:  
 
-1. ✅ **Clarity above all** – I believe that clean code and intuitive interfaces start with clear thinking. I invest time in understanding the problem before implementing the solution.  
+1. **Clarity above all** – I believe that clean code and intuitive interfaces start with clear thinking. I invest time in understanding the problem before implementing the solution.  
 
-2. ✅ **Continuous learning** – Every project is an opportunity for growth. I turn Frontend Mentor challenges into experimentation labs, where I can test new techniques and refine my craft.  
+2. **Continuous learning** – Every project is an opportunity for growth. I turn Frontend Mentor challenges into experimentation labs, where I can test new techniques and refine my craft.  
 
-3. ✅ **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.  
+3. **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.  
 
 ### **Beyond Code**
 
@@ -42,12 +33,11 @@ When I’m not coding, I enjoy exploring design principles and gaming, always lo
 
 I’m always open to collaborations and discussions on how we can make the web a better place for everyone. Let’s build something meaningful together!
 
-### 🚀 Currently learning:
+### Currently learning
 
-- 🌐 Accessibility best practices.
-- 🏗 CSS methodologies and architectures.
+- Web Accessibility
 
-### ✅ Achievements:
+### Achievements
 
 - 🎉 Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
 
@@ -79,7 +69,3 @@ I’m always open to collaboration opportunities and challenging projects. Feel 
 [![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
 [![Frontend Mentor](https://img.shields.io/badge/FRONTEND%20MENTOR-094550?style=for-the-badge&logo=frontendmentor&logoColor=white&logoSize=auto)](https://www.frontendmentor.io/profile/alberto-rj)
-
-<!-- wave for the footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=094550&height=140&section=footer"/>
-<!-- Let's Connect - end -->
