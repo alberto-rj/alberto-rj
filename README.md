@@ -39,7 +39,7 @@ I’m always open to collaborations and discussions on how we can make the web a
 
 ### Achievements
 
-- 🎉 Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
+- Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
 
 <br><br>
 <!-- About Me - end -->
