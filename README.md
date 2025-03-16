@@ -14,9 +14,17 @@
 
 ### **My Journey**  
 
-My path in programming started with a simple question: *"How can I use technology to make a difference in people's lives?"* As a passionate self-taught developer, I found the perfect answer in frontend development—a blend of logic, creativity, and direct user impact.  
+My path in programming started with a simple question: 
 
-I deeply believe in Vint Cerf’s words: *"The Internet is for everyone, but it won’t be unless WE make it so."* This philosophy guides every line of code I write, every interface I build, and every project I deliver.  
+> *"How can I use technology to make a difference in people's lives?"* 
+
+As a passionate self-taught developer, I found the perfect answer in frontend development—a blend of logic, creativity, and direct user impact.  
+
+I deeply believe in Vint Cerf’s words: 
+
+> *"The Internet is for everyone, but it won’t be unless WE make it so."* 
+
+This philosophy guides every line of code I write, every interface I build, and every project I deliver.  
 
 ### **How I Work**
 
