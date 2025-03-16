@@ -39,10 +39,6 @@ My process is guided by three fundamental principles:
 
 When I’m not coding, I enjoy exploring design principles and gaming, always looking for inspiration in interactive experiences.  
 
-I’m always open to collaborations and discussions on how we can make the web a better place for everyone. 
-
-**Let’s build something meaningful together!**
-
 <br><br>
 <!-- About Me - end -->
 
@@ -64,9 +60,9 @@ I’m always open to collaborations and discussions on how we can make the web a
 <!-- Technologies - start -->
 
 <!-- Let's Connect - start -->
-## 📬 Let's Connect!
+## 📬 Let’s connect and build something meaningful together!
 
-I’m always open to collaboration opportunities and challenging projects. Feel free to reach out!
+I’m always open to collaborations and discussions on how we can make the web a better place for everyone.
 
 [![Gmail](https://img.shields.io/badge/GMAIL-094550?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto)](mailto:albertorauljose2@gmail.com)&nbsp;
 [![Twitter](https://img.shields.io/badge/X-094550?style=for-the-badge&logo=x&logoColor=white&logoSize=auto)](https://twitter.com/albertorauljose)&nbsp;
