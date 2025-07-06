@@ -1,7 +1,7 @@
+![Alberto José's profile banner](https://github.com/user-attachments/assets/f9108805-5ad1-452a-9544-27a69a0a6c45)
+
 <!-- About Me - start -->
 # 👨‍💻 About Me
-
-![Alberto José's profile banner](https://github.com/user-attachments/assets/425102a8-e266-4a6c-a46e-7c52d5fbe9c6)
 
 ### My Journey
 
