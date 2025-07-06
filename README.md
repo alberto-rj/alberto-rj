@@ -43,8 +43,8 @@ When I’m not coding, I enjoy exploring design principles and gaming, always lo
    
 ![HTML5](https://img.shields.io/badge/HTML5-002833?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-002833?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
-![SASS](https://img.shields.io/badge/sass-002833?st;yle=for-the-badge&logo=sass&logoColor=white&logoSize=auto)&nbsp
-![Tailwind CSS](https://img.shields.io/badge/tailwindcss-002833?st;yle=for-the-badge&logo=sass&logoColor=white&logoSize=auto)&nbsp
+![SASS](https://img.shields.io/badge/sass-002833?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-002833?st;yle=for-the-badge&logo=sass&logoColor=white&logoSize=auto)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-094550?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
 ![React.js](https://img.shields.io/badge/nodedotjs-002833?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)&nbsp;
 
