@@ -27,10 +27,6 @@ My process is guided by three fundamental principles:
 
 3. **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.
 
-### Achievements
-
-- Successfully [completed over 15 projects on Frontend Mentor](https://www.frontendmentor.io/profile/alberto-rj/solutions), receiving positive feedback and collaborating with fellow developers.
-
 ### Beyond Code
 
 When I’m not coding, I enjoy exploring design principles and gaming, always looking for inspiration in interactive experiences.  
