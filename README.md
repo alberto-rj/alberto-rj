@@ -45,13 +45,18 @@ When I’m not coding, I enjoy exploring design principles and gaming, always lo
 ![CSS3](https://img.shields.io/badge/CSS3-002833?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)&nbsp;
 ![SASS](https://img.shields.io/badge/sass-002833?style=for-the-badge&logo=sass&logoColor=white&logoSize=auto)&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-002833?style=for-the-badge&logo=tailwindcss&logoColor=white&logoSize=auto)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-094550?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-002833?style=for-the-badge&logo=javascript&logoColor=white&logoSize=auto)&nbsp;
 ![React.js](https://img.shields.io/badge/React.js-002833?style=for-the-badge&logo=react&logoColor=white&logoSize=auto)&nbsp;
 
 ![TypeScript](https://img.shields.io/badge/Typescript-002833?style=for-the-badge&logo=typescript&logoColor=white&logoSize=auto)&nbsp;
 ![Postgre SQL](https://img.shields.io/badge/Postgre%20SQL-002833?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-002833?style=for-the-badge&logo=express&logoColor=white&logoSize=auto)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-002833?style=for-the-badge&logo=nodedotjs&logoColor=white&logoSize=auto)&nbsp;
+
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-002833?style=for-the-badge&logo=gnubash&logoColor=white&logoSize=auto)&nbsp;
+![Git](https://img.shields.io/badge/Git-002833?style=for-the-badge&logo=git&logoColor=white&logoSize=auto)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-002833?style=for-the-badge&logo=github&logoColor=white&logoSize=auto)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-002833?style=for-the-badge&logo=figma&logoColor=white&logoSize=auto)&nbsp;
 
 <br><br>
 <!-- Technologies - end -->
