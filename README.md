@@ -1,7 +1,7 @@
 <!-- About Me - start -->
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-👋 Hi, I'm Alberto! I turn designs into accessible and functional web experiences, bridging the gap between what is technically possible and what is humanly necessary.  
+![Alberto José's profile banner](https://github.com/user-attachments/assets/425102a8-e266-4a6c-a46e-7c52d5fbe9c6)
 
 ### My Journey
 
