@@ -9,7 +9,7 @@ My path in programming started with a simple question:
 
 > *"How can I use technology to make a difference in people's lives?"* 
 
-As a passionate self-taught developer, I found the perfect answer in software development—a blend of logic, creativity, and direct user impact.  
+As a passionate self-taught developer, I found the perfect answer in software development - a blend of logic, creativity, and direct user impact.  
 
 I deeply believe in Vint Cerf’s words: 
 
