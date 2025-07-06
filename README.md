@@ -1,4 +1,4 @@
-![Alberto José's profile banner](https://github.com/user-attachments/assets/2a1c8d13-4bc4-450c-b1c0-d6533329f68f)
+![Alberto José's cover image](https://github.com/user-attachments/assets/eb4c91e9-8b14-4304-acd0-47043b87834e)
 
 <!-- About Me - start -->
 # 👨‍💻 About Me
