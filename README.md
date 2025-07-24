@@ -19,17 +19,19 @@ This philosophy guides every line of code I write, every interface I build, and 
 
 ### How I Work
 
-My process is guided by three fundamental principles:  
+My approach is guided by three fundamental principles:
 
-1. **Clarity above all** – I believe that clean code and intuitive interfaces start with clear thinking. I invest time in understanding the problem before implementing the solution.  
-
-2. **Continuous learning** – Every project is an opportunity for growth. I turn Frontend Mentor challenges into experimentation labs, where I can test new techniques and refine my craft.  
-
-3. **Tangible impact** – I measure success not only by technical quality but by the real value I deliver to people. A beautiful interface that no one can use is a failure in my view.
+1. **Clarity first –** Clean code and intuitive interfaces start with clear thinking. I take the time to deeply understand the problem before crafting a solution.
+2. **Lifelong learning –** Every project is an opportunity to grow. I use Frontend Mentor challenges as my testing ground to experiment with new techniques and refine my craft.
+3. **Real-world impact –** Success isn’t just about technical excellence; it’s about the value I deliver. A beautiful interface that isn’t accessible is, in my view, a failure.
 
 ### Beyond Code
 
-When I’m not coding, I enjoy exploring design principles and gaming, always looking for inspiration in interactive experiences.  
+When I’m not coding, I’m exploring design principles and gaming—always looking for inspiration in interactive experiences.
+
+I’m always open to collaborations and meaningful discussions about making the web a better place for everyone.
+
+**Let’s build something that truly matters! 🚀**
 
 <br><br>
 <!-- About Me - end -->
