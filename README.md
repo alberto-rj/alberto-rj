@@ -22,7 +22,7 @@ This philosophy guides every line of code I write, every interface I build, and 
 My approach is guided by three fundamental principles:
 
 1. **Clarity first –** Clean code and intuitive interfaces start with clear thinking. I take the time to deeply understand the problem before crafting a solution.
-2. **Lifelong learning –** Every project is an opportunity to grow. [I use Frontend Mentor challenges as my testing ground](https://www.frontendmentor.io/profile/alberto) to experiment with new techniques and refine my craft.
+2. **Lifelong learning –** Every project is an opportunity to grow. [I use Frontend Mentor challenges as my testing ground](https://www.frontendmentor.io/profile/alberto-rj) to experiment with new techniques and refine my craft.
 3. **Real-world impact –** Success isn’t just about technical excellence; it’s about the value I deliver. A beautiful interface that isn’t accessible is, in my view, a failure.
 
 ### Beyond Code
