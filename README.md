@@ -2,7 +2,7 @@
 
 # Junior Full-Stack JavaScript Developer
 
-### Building real-world applications with clean code and best practices
+### Building real-world apps with clean code and best practices
 
 🔍 Actively seeking a **Full-Stack JavaScript Internship**
 
