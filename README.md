@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I'm a **junior full-stack developer** focused on building **scalable and well-tested web applications** using **TypeScript** across the stack.
+I'm a **junior full-stack developer** focused on building **scalable and well-tested web apps** using **TypeScript** across the stack.
 
 I enjoy:
 - Turning business requirements into clean APIs
@@ -40,7 +40,7 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 ### 🧪 Testing & Quality
 
 - Unit & Integration Tests (Vitest)
-- REST API documentation with Swagger & OpenAPI (Zod)
+- REST API documentation with Swagger & OpenAPI
 
 ### 🛠️ Tools & Workflow
 
