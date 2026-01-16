@@ -52,7 +52,7 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 
 ---
 
-## 📌 Featured Projects
+## 📌 Featured Projects (coming soon)
 
 👉 Check my pinned repositories below to see:
 - Clean API design
