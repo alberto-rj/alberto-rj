@@ -1,6 +1,6 @@
 <div align="center">
 
-# Junior Full-Stack JavaScript Developer
+# Full-Stack JavaScript Developer
 
 ### Building real-world apps with clean code and best practices
 
