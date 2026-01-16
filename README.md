@@ -1,5 +1,3 @@
-![Alberto José's cover image](https://github.com/user-attachments/assets/eb4c91e9-8b14-4304-acd0-47043b87834e)
-
 <!-- About Me - start -->
 <div align="center">
 <h1 align="center">Alberto José</h1>
