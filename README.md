@@ -6,9 +6,7 @@
 
 🔍 Actively seeking a **Full-Stack JavaScript Internship**
 
-[Portfolio](https://www.frontendmentor.io/profile/alberto-rj) • 
-[LinkedIn](https://www.linkedin.com/in/alberto-rj/) • 
-[Email](mailto:albertorauljose2@gmail.com)
+[Portfolio](https://www.frontendmentor.io/profile/alberto-rj) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
 </div>
 
