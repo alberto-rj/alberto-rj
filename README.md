@@ -1,32 +1,62 @@
-<!-- About Me - start -->
 <div align="center">
 
-# JavaScript Full-Stack Developer
+# Junior Full-Stack JavaScript Developer
 
-### Learning. Building. Evolving.
+### Building real-world applications with clean code and best practices
 
-[Visit my Portfolio](https://www.frontendmentor.io/profile/alberto-rj) | [Linkedin](https://www.linkedin.com/in/alberto-rj/) | [Get in touch](mailto:albertorauljose2@gmail.com)
-   
+🔍 Actively seeking a **Full-Stack JavaScript Internship**
+
+[Portfolio](https://www.frontendmentor.io/profile/alberto-rj) • 
+[LinkedIn](https://www.linkedin.com/in/alberto-rj/) • 
+[Email](mailto:albertorauljose2@gmail.com)
+
 </div>
 
-<br><br>
-<!-- About Me - end -->
+---
 
-<!-- Technologies - start -->
-## ⚒️ Technologies
+## 👋 About Me
 
-Here's my detailed Tech Stack:
+I'm a **junior full-stack developer** focused on building **scalable and well-tested web applications** using **TypeScript** across the stack.
 
-**🎨 Frontend Development:**
-- HTML | CSS | Tailwind CSS | SASS
-- TypeScript | React.js | Redux
+I enjoy:
+- Turning business requirements into clean APIs
+- Writing maintainable and testable code
+- Learning by building real projects end-to-end
 
-**⚙ Backend Development:**
-- TypeScript | Node.js | Express.js
-- PostgreSQL | Prisma
-  
-**🧪 Testing:**
-- Vitest | Unit testing | Integration testing
+Currently improving my skills in **backend architecture, testing, and DevOps fundamentals**.
 
-**🖥️ Tools:**
-- GNU Bash | Git | GitHub | Swagger & OpenAPI | Figma
+---
+
+## ⚒️ Tech Stack
+
+### 🎨 Frontend
+
+- HTML, CSS, SASS, Tailwind CSS  
+- TypeScript, React.js, Redux  
+
+### ⚙️ Backend
+
+- Node.js, Express.js, TypeScript  
+- PostgreSQL, Prisma ORM  
+
+### 🧪 Testing & Quality
+
+- Unit & Integration Tests (Vitest)
+- REST API documentation with Swagger & OpenAPI (Zod)
+
+### 🛠️ Tools & Workflow
+
+- Git & GitHub
+- GNU Bash
+- Figma (UI reference & collaboration)
+
+---
+
+## 📌 Featured Projects
+
+👉 Check my pinned repositories below to see:
+- Clean API design
+- Authentication & authorization
+- Validation with Zod
+- Automated tests
+- OpenAPI documentation
