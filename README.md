@@ -29,4 +29,4 @@ Here's my detailed Tech Stack:
 - Vitest | Unit testing | Integration testing
 
 **🖥️ Tools:**
-- GNU Bash | Git | GitHub | Figma
+- GNU Bash | Git | GitHub | Swagger & OpenAPI | Figma
