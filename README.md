@@ -3,12 +3,11 @@
 
 # JavaScript Full-Stack Developer
 
-#### Learning. Building. Evolving.
+### Learning. Building. Evolving.
 
-[Visit my Portfolio](#) | [Linkedin](https://www.linkedin.com/in/alberto-rj/) |[Get in touch](mailto:albertorauljose2@gmail.com)
+[Visit my Portfolio](https://www.frontendmentor.io/profile/alberto-rj) | [Linkedin](https://www.linkedin.com/in/alberto-rj/) | [Get in touch](mailto:albertorauljose2@gmail.com)
    
 </div>
-
 
 <br><br>
 <!-- About Me - end -->
