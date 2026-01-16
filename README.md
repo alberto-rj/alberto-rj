@@ -3,7 +3,7 @@
 <!-- About Me - start -->
 <div align="center">
 <h1 align="center">Alberto José</h1>
-<h2 align="center">JavaScript Full-Stack Developer</h2>
+<p><strong>JavaScript Full-Stack Developer</strong></p>
 
 [Visit my Portfolio](#) | [Linkedin](https://www.linkedin.com/in/alberto-rj/) |[Get in touch](mailto:albertorauljose2@gmail.com)
    
