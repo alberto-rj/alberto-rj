@@ -1,10 +1,8 @@
 ![Alberto José's cover image](https://github.com/user-attachments/assets/eb4c91e9-8b14-4304-acd0-47043b87834e)
 
 <!-- About Me - start -->
-# Hello 👋
-
 <div align="center">
-
+<h1 align="center">Alberto José</h1>
 <h2 align="center">JavaScript Full-Stack Developer</h2>
 
 [Visit my Portfolio](#) | [Linkedin](https://www.linkedin.com/in/alberto-rj/) |[Get in touch](mailto:albertorauljose2@gmail.com)
