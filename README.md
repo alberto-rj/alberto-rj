@@ -1,6 +1,9 @@
 <!-- About Me - start -->
 <div align="center">
-<h1 align="center">JavaScript Full-Stack Developer | Learning. Building. Evolving.</h1>
+
+# JavaScript Full-Stack Developer
+
+#### Learning. Building. Evolving.
 
 [Visit my Portfolio](#) | [Linkedin](https://www.linkedin.com/in/alberto-rj/) |[Get in touch](mailto:albertorauljose2@gmail.com)
    
