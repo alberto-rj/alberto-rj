@@ -25,7 +25,7 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 
 ---
 
-## ⚒️ Tech Stack
+## 💼 Tech Stack
 
 ### 🎨 Frontend
 
