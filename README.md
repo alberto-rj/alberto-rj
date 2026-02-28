@@ -1,10 +1,8 @@
 <div align="center">
 
-# Alberto José
+# 👋 Hi, I'm Full-Stack JavaScript Developer
 
-### Full-Stack JavaScript Developer
-
-Building real-world apps with clean code and best practices
+**Building real-world apps with clean code and best practices**
 
 [Portfolio (comming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
@@ -12,7 +10,7 @@ Building real-world apps with clean code and best practices
 
 ---
 
-## 👋 About Me
+## About Me
 
 I'm a **junior full-stack developer** focused on building **scalable and well-tested web apps** using **TypeScript** across the stack.
 
