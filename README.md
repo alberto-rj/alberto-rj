@@ -37,8 +37,8 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 
 ### Testing & Quality
 
-- Unit and Integration Tests (Vitest and Supertest)
-- REST API documentation (Swagger and OpenAPI)
+- Vitest, Supertest
+- OpenAPI, Swagger
 
 ### Tools & Workflow
 
