@@ -1,10 +1,10 @@
 <div align="center">
 
-# Full-Stack JavaScript Developer
+# Alberto José
 
-### Building real-world apps with clean code and best practices
+### Full-Stack JavaScript Developer
 
-🔍 Actively seeking a **Full-Stack JavaScript Internship**
+Building real-world apps with clean code and best practices
 
 [Portfolio (comming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
@@ -25,34 +25,35 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 
 ---
 
-## 💼 Tech Stack
+## Tech Stack
 
-### 🎨 Frontend
+### Frontend
 
 - HTML, CSS, SASS, Tailwind CSS  
 - TypeScript, React.js, Redux  
 
-### ⚙️ Backend
+### Backend
 
 - Node.js, Express.js, TypeScript  
-- PostgreSQL, Prisma ORM  
+- PostgreSQL, Drizzle, Prisma 
 
-### 🧪 Testing & Quality
+### Testing & Quality
 
 - Unit & Integration Tests (Vitest)
 - REST API documentation with Swagger & OpenAPI
 
-### 🛠️ Tools & Workflow
+### Tools & Workflow
 
-- Git & GitHub
 - GNU Bash
+- Docker
+- Git & GitHub
 - Figma (UI reference & collaboration)
 
 ---
 
-## 📌 Featured Projects (coming soon)
+## Featured Projects (coming soon)
 
-👉 Check my pinned repositories below to see:
+Check my pinned repositories below to see:
 - Clean API design
 - Authentication & authorization
 - Validation with Zod
