@@ -38,13 +38,10 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 
 ### Tools & Workflow
 
-- GNU Bash
-- Docker
-- Git & GitHub
+- Git, GitHub, Docker
 - Vitest, Supertest
 - OpenAPI, Swagger
 - Storybook
-- Figma (UI reference and collaboration)
 
 ---
 
