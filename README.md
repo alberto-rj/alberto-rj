@@ -32,12 +32,17 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 
 ### Backend
 
-- Node.js, Express.js, TypeScript  
-- PostgreSQL, Drizzle, Prisma 
+- Node.js, Express.js, TypeScript
+
+### Database
+
+- PostgreSQL, Drizzle, Prisma
+- MongoDB, Mongoose 
 
 ### Testing & Quality
 
 - Vitest, Supertest
+- Storybook
 - OpenAPI, Swagger
 
 ### Tools & Workflow
