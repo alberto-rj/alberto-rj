@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Full-Stack JavaScript Developer
+# 👋 Hi, I'm Full-Stack Developer
 
-**Building real-world apps with clean code and best practices**
+**Building real-world web apps with clean code and best practices**
 
 [Portfolio (comming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
