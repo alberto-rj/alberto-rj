@@ -17,7 +17,7 @@
 - Writing maintainable and testable code
 - Learning by building real projects end-to-end
 
-**Im currently improving my skills in:**
+**I'm currently improving my skills in:**
 - Backend architecture
 - Testing (unit, integration & e2e)
 - DevOps fundamentals (Docker & CI/CD)
