@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Full-Stack Developer
+# Hey, I'm a Full-Stack Developer!
 
 **Building real-world web apps with clean code and best practices**
 
