@@ -2,8 +2,6 @@
 
 # Hey, I'm a Full-Stack Developer!
 
-**Focused on building scalable and well-tested web apps using TypeScript across the stack.**
-
 [Portfolio (comming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
 </div>
@@ -11,6 +9,8 @@
 ---
 
 ## About Me
+
+I'm a Full-Stack Developer focused on building scalable and well-tested web apps using TypeScript across the stack.
 
 **I enjoy:**
 - Turning business requirements into clean APIs
