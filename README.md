@@ -2,7 +2,7 @@
 
 # Hey, I'm a Full-Stack Developer!
 
-**Building real-world web apps with clean code and best practices**
+**Building scalable and well-tested web apps using TypeScript across the stack.**
 
 [Portfolio (comming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
@@ -12,14 +12,15 @@
 
 ## About Me
 
-I'm a **junior full-stack developer** focused on building **scalable and well-tested web apps** using **TypeScript** across the stack.
-
-I enjoy:
+**I enjoy:**
 - Turning business requirements into clean APIs
 - Writing maintainable and testable code
 - Learning by building real projects end-to-end
 
-Currently improving my skills in **backend architecture, testing, and DevOps fundamentals**.
+**Im currently improving my skills in:**
+- Backend architecture
+- Testing (unit, integration & e2e)
+- DevOps fundamentals (Docker & CI/CD)
 
 ---
 
@@ -46,10 +47,3 @@ Currently improving my skills in **backend architecture, testing, and DevOps fun
 ---
 
 ## Featured Projects (coming soon)
-
-Check my pinned repositories below to see:
-- Clean API design
-- Authentication and authorization
-- Validation with Zod
-- Automated tests
-- OpenAPI documentation
