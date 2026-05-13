@@ -1,8 +1,12 @@
 <div align="center">
 
-# Hey, I'm a Full-Stack Developer!
+# Hey, I'm Alberto 👋
 
-[Portfolio (comming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
+### Full-Stack Developer & 42 Luanda Student
+
+Building scalable and production-focused web apps with TypeScript.
+
+[Portfolio (coming soon)](#) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
 
 </div>
 
@@ -10,40 +14,42 @@
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building scalable and well-tested web apps using TypeScript across the stack.
+I'm a Full-Stack Developer focused on building scalable, maintainable, and well-tested web applications using TypeScript across the stack.
 
-**I enjoy:**
-- Turning business requirements into clean APIs
+I enjoy:
+- Turning business requirements into clean and reliable APIs
 - Writing maintainable and testable code
-- Learning by building real projects end-to-end
+- Building real-world projects end-to-end
+- Continuously improving my engineering skills
 
-**I'm currently improving my skills in:**
+Currently improving my skills in:
 - Backend architecture
 - Testing (unit, integration & e2e)
 - DevOps fundamentals (Docker & CI/CD)
+- System design fundamentals
 
 ---
 
 ## Tech Stack
 
 ### Frontend
-
-- HTML, CSS, SASS, Tailwind CSS  
-- TypeScript, React.js, Redux  
+- HTML, CSS, SASS, Tailwind CSS
+- TypeScript, React.js, Redux
 
 ### Backend
-
 - Node.js, Express.js, TypeScript
-- PostgreSQL, Drizzle, Prisma
+- PostgreSQL, Prisma, Drizzle
 - MongoDB, Mongoose
 
 ### Tools & Workflow
-
-- Git, GitHub, Docker
-- Vitest, Supertest
-- OpenAPI, Swagger
+- Git & GitHub
+- Docker
+- Vitest & Supertest
+- OpenAPI & Swagger
 - Storybook
 
 ---
 
-## Featured Projects (coming soon)
+## Featured Projects
+
+Coming soon 🚀
