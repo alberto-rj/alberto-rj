@@ -22,7 +22,7 @@ I enjoy:
 - Building real-world projects end-to-end
 - Continuously improving my engineering skills
 
-Currently improving my skills in:
+**Currently learning more about:**
 - Backend architecture
 - Testing (unit, integration & e2e)
 - DevOps fundamentals (Docker & CI/CD)
@@ -45,7 +45,7 @@ Currently improving my skills in:
 - Git & GitHub
 - Docker
 - Vitest & Supertest
-- OpenAPI & Swagger
+- REST APIs (OpenAPI & Swagger)
 - Storybook
 
 ---
