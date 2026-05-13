@@ -6,7 +6,7 @@
 
 Turning ideas into real-world web apps with TypeScript, Node.js & React.
 
-[Portfolio (coming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
+[Portfolio (coming soon)](#) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
 
 </div>
 
@@ -50,6 +50,4 @@ I enjoy:
 
 ---
 
-## Featured Projects
-
-Coming soon 🚀
+## Featured Projects (coming soon)
