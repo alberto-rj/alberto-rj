@@ -14,7 +14,7 @@ Turning ideas into real-world web apps with TypeScript, Node.js & React.
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building scalable, maintainable, and well-tested web applications using TypeScript across the stack.
+I'm a Full-Stack Developer focused on building scalable, maintainable, and well-tested web apps using TypeScript across the stack.
 
 **What I enjoy:**
 - Turning business requirements into clean and reliable APIs
@@ -33,15 +33,18 @@ I'm a Full-Stack Developer focused on building scalable, maintainable, and well-
 ## Tech Stack
 
 ### Frontend
+
 - HTML, CSS, SASS, Tailwind CSS
 - TypeScript, React.js, Redux
 
 ### Backend
+
 - Node.js, Express.js, TypeScript
 - PostgreSQL, Prisma, Drizzle
 - MongoDB, Mongoose
 
 ### Tools & Workflow
+
 - Git & GitHub
 - Docker
 - Vitest & Supertest
