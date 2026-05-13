@@ -16,7 +16,7 @@ Turning ideas into real-world web apps with TypeScript, Node.js & React.
 
 I'm a Full-Stack Developer focused on building scalable, maintainable, and well-tested web applications using TypeScript across the stack.
 
-I enjoy:
+**What I enjoy:**
 - Turning business requirements into clean and reliable APIs
 - Writing maintainable and testable code
 - Building real-world projects end-to-end
