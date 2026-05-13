@@ -4,7 +4,7 @@
 
 ### Full-Stack Developer & 42 Luanda Student
 
-Building scalable and production-focused web apps with TypeScript.
+Turning ideas into real-world web apps with TypeScript, Node.js & React.
 
 [Portfolio (coming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
