@@ -6,7 +6,7 @@
 
 Building scalable and production-focused web apps with TypeScript.
 
-[Portfolio (coming soon)](#) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
+[Portfolio (coming soon)](#) | [LinkedIn](https://www.linkedin.com/in/alberto-rj/) | [Email](mailto:albertorauljose2@gmail.com)
 
 </div>
 
