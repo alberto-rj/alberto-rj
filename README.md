@@ -6,7 +6,7 @@
 
 Turning ideas into real-world web apps with TypeScript, Node.js & React.
 
-[Portfolio (coming soon)](#) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
+[Featured Projects](#featured-projects) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
 
 </div>
 
@@ -25,10 +25,11 @@ I'm a Full-Stack Developer focused on building scalable, maintainable, and well-
 - Continuously improving my engineering skills
 
 **Currently learning more about:**
-- Backend architecture
-- Testing (unit, integration & e2e)
-- DevOps fundamentals (Docker & CI/CD)
-- System design fundamentals
+
+- Backend architecture and design patterns
+- Automated testing with Vitest and Supertest
+- Docker, CI/CD, and deployment workflows
+- Scalable system design fundamentals
 
 ---
 
@@ -55,4 +56,16 @@ I'm a Full-Stack Developer focused on building scalable, maintainable, and well-
 
 ---
 
-## Featured Projects (coming soon)
+## Featured Projects
+
+### Audiophile (In Development)
+
+A full-stack e-commerce platform for premium audio equipment featuring authentication, shopping cart management, product catalog, order processing, responsive design, and a REST API built with TypeScript.
+
+[Live Demo (coming soon)](#) • [GitHub Repository](https://github.com/alberto-rj/audiophile)
+
+### Tip Calculator App
+
+A responsive tip calculator with real-time updates, accessible validation, and support for custom tip percentages - built as a Frontend Mentor challenge.
+
+[Live Demo](https://alberto-rj.github.io/tip-calculator) • [GitHub Repository](https://github.com/alberto-rj/tip-calculator)
