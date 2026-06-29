@@ -58,7 +58,7 @@ I'm a Full-Stack Developer focused on building scalable, maintainable, and well-
 
 ## Featured Projects
 
-### Audiophile (In Development)
+### Audiophile
 
 A full-stack e-commerce platform for premium audio equipment featuring authentication, shopping cart management, product catalog, order processing, responsive design, and a REST API built with TypeScript.
 
