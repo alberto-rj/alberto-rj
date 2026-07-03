@@ -62,10 +62,5 @@ I'm a Full-Stack Developer focused on building scalable, maintainable, and well-
 
 A full-stack e-commerce platform for premium audio equipment featuring authentication, shopping cart management, product catalog, order processing, responsive design, and a REST API built with TypeScript.
 
-[Live Demo](https://audiophile-frontend-v2.vercel.app) • [GitHub Repository](https://github.com/alberto-rj/audiophile)
-
-### Tip Calculator App
-
-A responsive tip calculator with real-time updates, accessible validation, and support for custom tip percentages - built as a Frontend Mentor challenge.
-
-[Live Demo](https://alberto-rj.github.io/tip-calculator) • [GitHub Repository](https://github.com/alberto-rj/tip-calculator)
+- [Live Demo](https://audiophile-frontend-v2.vercel.app)
+- [Source Code](https://github.com/alberto-rj/audiophile)
