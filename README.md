@@ -37,13 +37,13 @@ I'm a Full-Stack Developer focused on building scalable, maintainable, and well-
 
 ### Frontend
 
-- HTML, CSS, SASS, Tailwind CSS
+- HTML, CSS, SASS, Tailwind CSS, Radix UI
 - TypeScript, React.js, Redux
 
 ### Backend
 
 - Node.js, Express.js, TypeScript
-- PostgreSQL, Prisma, Drizzle
+- PostgreSQL, Prisma ORM, Drizzle ORM
 - MongoDB, Mongoose
 
 ### Tools & Workflow
