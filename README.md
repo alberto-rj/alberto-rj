@@ -2,9 +2,9 @@
 
 # Hey, I'm Alberto 👋
 
-### Full-Stack Developer & 42 Luanda Student
+### Full Stack Developer | React • Node.js • TypeScript
 
-Turning ideas into real-world web apps with TypeScript, Node.js & React.
+REST APIs, layered architecture & accessible UIs
 
 [Featured Projects](#featured-projects) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
 
@@ -14,7 +14,7 @@ Turning ideas into real-world web apps with TypeScript, Node.js & React.
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building scalable, maintainable, and well-tested web apps using TypeScript across the stack.
+I'm a Full-Stack Developer focused on building scalable, maintainable web apps using TypeScript across the stack.
 
 **What I enjoy:**
 
