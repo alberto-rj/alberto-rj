@@ -2,9 +2,7 @@
 
 # Hey, I'm Alberto 👋
 
-### Full Stack Developer | React • Node.js • TypeScript
-
-REST APIs, layered architecture & accessible UIs
+**Full Stack Developer | React • Node.js • TypeScript | REST APIs, layered architecture & accessible UIs**
 
 [Featured Projects](#featured-projects) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
 
