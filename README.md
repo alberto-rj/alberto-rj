@@ -62,5 +62,8 @@ I'm a Full-Stack Developer focused on building scalable, maintainable, and well-
 
 Audiophile is a full-stack e-commerce platform for premium audio products, originally created as a Frontend Mentor challenge and expanded into a complete application with authentication, product management, cart functionality, checkout flow, order processing, and a documented REST API.
 
-- [Live Demo](https://audiophile-frontend-v2.vercel.app)
-- [Source Code](https://github.com/alberto-rj/audiophile)
+[Live Demo](https://audiophile-frontend-v2.vercel.app)
+•
+[API Docs](https://audiophile-qoxm.onrender.com/api-docs)
+•
+[Source Code](https://github.com/alberto-rj/audiophile)
