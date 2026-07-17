@@ -12,7 +12,7 @@
 
 ## About Me
 
-I'm a Full-Stack Developer focused on building scalable, maintainable web apps using TypeScript across the stack.
+Full Stack Developer focused on the JavaScript/TypeScript ecosystem, building web applications using React on the frontend and Node.js on the backend.
 
 **What I enjoy:**
 
@@ -26,7 +26,7 @@ I'm a Full-Stack Developer focused on building scalable, maintainable web apps u
 
 - Backend architecture and design patterns
 - Automated testing with Vitest and Supertest
-- Docker, CI/CD, and deployment workflows
+- Docker, GitHub Actions (CI/CD)
 - Scalable system design fundamentals
 
 ---
