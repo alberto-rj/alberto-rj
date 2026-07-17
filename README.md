@@ -12,7 +12,7 @@
 
 ## About Me
 
-Full Stack Developer focused on the JavaScript/TypeScript ecosystem, building web applications using React on the frontend and Node.js on the backend.
+I'm a Full Stack Developer focused on the JavaScript/TypeScript ecosystem, building web applications using React on the frontend and Node.js on the backend.
 
 **What I enjoy:**
 
