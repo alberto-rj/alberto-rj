@@ -62,6 +62,8 @@ Audiophile is a full-stack e-commerce platform for premium audio products, origi
 
 [Live Demo](https://audiophile-frontend-v2.vercel.app)
 •
+[UI Docs](https://6a5a9bf0a697b58da824c52f-kkxizcouyr.chromatic.com)
+•
 [API Docs](https://audiophile-qoxm.onrender.com/api-docs)
 •
 [Source Code](https://github.com/alberto-rj/audiophile)
