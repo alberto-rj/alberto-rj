@@ -35,13 +35,9 @@ I'm a Full Stack Developer focused on the JavaScript/TypeScript ecosystem, build
 
 - **Frontend:** React, TypeScript, Redux Toolkit, Tailwind CSS, Sass, Radix UI, Component Architecture, State Management, Design Systems,
 Accessibility & Responsive Interfaces
-
 - **Backend:** Node.js, Express, REST APIs, JWT Authentication, PostgreSQL, Drizzle ORM, Prisma ORM, Database Design
-
 - **Testing & Quality:** Storybook, MSW, Vitest, Supertest, Testing Strategy
-
 - **DevOps & Tooling:** Docker, Git, GitHub Actions, CI/CD, Linux, Bash
-
 - **AI-assisted Development:** Using Claude and ChatGPT to support software design, code review, debugging, documentation, and
 developer productivity.
 
