@@ -12,22 +12,14 @@
 
 ## About Me
 
-I'm a Full Stack Developer focused on the JavaScript/TypeScript ecosystem, building web applications using React on the frontend and Node.js on the backend.
+I'm a Full Stack Developer focused on the JavaScript/TypeScript ecosystem, with hands-on experience building modern web applications using
+React on the frontend and Node.js on the backend.
 
-**What I enjoy:**
+Experienced in designing REST APIs, implementing JWT-based authentication, building scalable application architectures, writing
+automated tests, and developing responsive, accessible, and reusable component-based interfaces.
 
-- Building accessible and responsive user interfaces
-- Turning business requirements into clean and reliable APIs
-- Writing maintainable and testable code
-- Developing real-world apps from idea to deployment
-- Continuously improving my engineering skills
-
-**Currently learning more about:**
-
-- Backend architecture and design patterns
-- Automated testing with Vitest and Supertest
-- Docker, GitHub Actions (CI/CD)
-- Scalable system design fundamentals
+Currently expanding my expertise in backend architecture, Docker, CI/CD, and AI-assisted software development through personal
+projects.
 
 ---
 
