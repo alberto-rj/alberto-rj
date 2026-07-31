@@ -31,29 +31,6 @@ I'm a Full Stack Developer focused on the JavaScript/TypeScript ecosystem, build
 
 ---
 
-## Tech Stack
-
-### Frontend
-
-- HTML, CSS, SASS, Tailwind CSS, Radix UI
-- TypeScript, React.js, Redux
-
-### Backend
-
-- Node.js, Express.js, TypeScript
-- PostgreSQL, Prisma ORM, Drizzle ORM
-- MongoDB, Mongoose
-
-### Tools & Workflow
-
-- Git & GitHub
-- Docker
-- Vitest & Supertest
-- REST APIs (OpenAPI & Swagger)
-- Storybook
-
----
-
 ## Featured Projects
 
 ### Audiophile
@@ -67,3 +44,19 @@ Audiophile is a full-stack e-commerce platform for premium audio products, origi
 [API Docs](https://audiophile-qoxm.onrender.com/api-docs)
 •
 [Source Code](https://github.com/alberto-rj/audiophile)
+
+---
+
+## Technical Skills
+
+- **Frontend:** React, TypeScript, Redux Toolkit, Tailwind CSS, Sass, Radix UI, Component Architecture, State Management, Design Systems,
+Accessibility & Responsive Interfaces
+
+- **Backend:** Node.js, Express, REST APIs, JWT Authentication, PostgreSQL, Drizzle ORM, Prisma ORM, Database Design
+
+- **Testing & Quality:** Storybook, MSW, Vitest, Supertest, Testing Strategy
+
+- **DevOps & Tooling:** Docker, Git, GitHub Actions, CI/CD, Linux, Bash
+
+- **AI-assisted Development:** Using Claude and ChatGPT to support software design, code review, debugging, documentation, and
+developer productivity.
