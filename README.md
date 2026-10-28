@@ -43,6 +43,6 @@ Audiophile is a full-stack e-commerce platform for premium audio products, origi
 - **Backend:** Node.js, TypeScript, Express.js, REST APIs, JWT authentication
 - **Testing & Quality:** Storybook, MSW, Vitest, Supertest
 - **DevOps & CI/CD:** Docker, GitHub Actions, Git, GitHub, Linux, Bash
-- **DevOps & CI/CD:** Render, Vercel, Cloudinary
+- **Cloud & Services:** Render, Vercel, Cloudinary
 - **AI-assisted Development:** Using Claude and ChatGPT to support software design, code review, debugging, documentation, and
 developer productivity.
