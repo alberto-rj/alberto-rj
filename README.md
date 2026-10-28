@@ -2,7 +2,7 @@
 
 # Hey, I'm Alberto 👋
 
-**Full Stack Developer | React • Node.js • TypeScript | REST APIs, layered architecture & accessible UIs**
+**Full Stack Developer | React • Node.js • TypeScript**
 
 [Featured Projects](#featured-projects) • [LinkedIn](https://www.linkedin.com/in/alberto-rj/) • [Email](mailto:albertorauljose2@gmail.com)
 
@@ -39,10 +39,10 @@ Audiophile is a full-stack e-commerce platform for premium audio products, origi
 
 ## Technical Skills
 
-- **Frontend:** React, TypeScript, Redux Toolkit, Tailwind CSS, Sass, Radix UI, Component Architecture, State Management, Design Systems,
-Accessibility & Responsive Interfaces
-- **Backend:** Node.js, Express, REST APIs, JWT Authentication, PostgreSQL, Drizzle ORM, Prisma ORM, Database Design
-- **Testing & Quality:** Storybook, MSW, Vitest, Supertest, Testing Strategy
-- **DevOps & Tooling:** Docker, Git, GitHub Actions, CI/CD, Linux, Bash
+- **Frontend:** React, TypeScript, Redux Toolkit, Tailwind CSS, Sass, Radix UI
+- **Backend:** Node.js, TypeScript, Express.js, REST APIs, JWT authentication
+- **Testing & Quality:** Storybook, MSW, Vitest, Supertest
+- **DevOps & CI/CD:** Docker, GitHub Actions, Git, GitHub, Linux, Bash
+- **DevOps & CI/CD:** Render, Vercel, Cloudinary
 - **AI-assisted Development:** Using Claude and ChatGPT to support software design, code review, debugging, documentation, and
 developer productivity.
