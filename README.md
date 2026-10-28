@@ -41,6 +41,7 @@ Audiophile is a full-stack e-commerce platform for premium audio products, origi
 
 - **Frontend:** React, TypeScript, Redux Toolkit, Tailwind CSS, Sass, Radix UI
 - **Backend:** Node.js, TypeScript, Express.js, REST APIs, JWT authentication
+- **Database:** PostgreSQL, MongoDB, Drizzle ORM, Prisma ORM
 - **Testing & Quality:** Storybook, MSW, Vitest, Supertest
 - **DevOps & CI/CD:** Docker, GitHub Actions, Git, GitHub, Linux, Bash
 - **Cloud & Services:** Render, Vercel, Cloudinary
